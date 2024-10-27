@@ -1,4 +1,5 @@
 PHA5E Website
+
 A stylish, interactive web page using GSAP animations to create an engaging experience. This project showcases a custom layout with sections for Vision, Team, Projects, and Contact, as well as animated effects and a hover-based image slider.
 
 Table of Contents
