@@ -247,7 +247,7 @@
   transition: opacity 0.15s;
 }
 .fnc-nav {
-  z-index: 5;
+  z-index: 10;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -461,8 +461,6 @@ body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
-/* COLORFUL SWITCH STYLES 
-   ORIGINAL DEMO - https://codepen.io/suez/pen/WQjwOb */
 .colorful-switch {
   position: relative;
   width: 180px;
